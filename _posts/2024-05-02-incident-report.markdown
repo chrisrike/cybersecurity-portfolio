@@ -5,8 +5,8 @@ title: Incident Report
 img: incident.png
 alt: image-alt
 
-# Reminder: Once finished with the project replace the current description with this one: Identified DDoS attack, scope of incident, potential network vulnerabilities and protection measures, and properly documented analysis and recovery plans in order to restore normal operations and maintain alignment with NIST CSF best practices.
-project-url: 
+
+project-url: https://docs.google.com/document/d/1JId_sfIRL742E6nhn4wOhgQh82M8N147qlsvtbljevo/edit?tab=t.0
 
 ---
-description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
+description: Identified DDoS attack, scope of incident, potential network vulnerabilities and protection measures, and properly documented analysis and recovery plans in order to restore normal operations and maintain alignment with NIST CSF best practices.
