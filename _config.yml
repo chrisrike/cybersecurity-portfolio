@@ -25,10 +25,10 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2978A0 #80B3FF
-  primary-rgb: "41,120,160"
-  secondary: 315659 #FD6E8A
-  secondary-dark: 253031 #A2122F
+  primary: C0E0DE #80B3FF
+  primary-rgb: "192,224,222"
+  secondary: 162521 #FD6E8A
+  secondary-dark: 4F7CAC #A2122F
 
 # Footer settings
 footer:
@@ -40,9 +40,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/christopher-rike/
   - title: github
-    url: https://github.com/chrisrike
+    url: https://chrisrike.github.io/cybersecurity-portfolio/
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
